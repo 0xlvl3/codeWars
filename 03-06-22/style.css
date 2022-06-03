@@ -1,0 +1,23 @@
+html {
+  font-size: 62.5;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: rgb(103, 191, 231);
+  font-family: fantasy;
+}
+
+h1 {
+  font-style: italic;
+}
+
+h2 {
+  font-size: 20;
+  font-style: bold;
+}
+
+p {
+  font-size: 20;
+  font-family: "Times New Roman", Times, serif;
+}
