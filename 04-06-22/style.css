@@ -4,11 +4,7 @@ html {
 }
 
 body {
-  background-image: linear-gradient(
-    to left,
-    rgb(99, 194, 223),
-    rgb(118, 135, 211)
-  );
+  background-color: rgb(103, 191, 231);
   font-family: fantasy;
 }
 
