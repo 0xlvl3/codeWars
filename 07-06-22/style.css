@@ -1,0 +1,27 @@
+html {
+  font-size: 62.5;
+  box-sizing: border-box;
+}
+
+body {
+  background-image: linear-gradient(
+    to left,
+    rgb(99, 194, 223),
+    rgb(118, 135, 211)
+  );
+  font-family: fantasy;
+}
+
+h1 {
+  font-style: italic;
+}
+
+h2 {
+  font-size: 20;
+  font-style: bold;
+}
+
+p {
+  font-size: 20;
+  font-family: "Times New Roman", Times, serif;
+}
